@@ -1,0 +1,69 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "sản phẩm 1",
+      "infomation": "sp",
+      "price": "1000"
+    },
+    {
+      "id": 2,
+      "name": "sản phẩm 2",
+      "infomation": "sp",
+      "price": "2000"
+    },
+    {
+      "name": "dadadadadadd",
+      "infomation": "đâd",
+      "price": "dâdada",
+      "id": 3
+    },
+    {
+      "name": "ddd",
+      "infomation": "đ",
+      "price": "dđ",
+      "id": 4
+    },
+    {
+      "name": "a",
+      "infomation": "a",
+      "price": "a",
+      "id": 5
+    },
+    {
+      "name": "test",
+      "infomation": "a",
+      "price": "a",
+      "id": 6
+    },
+    {
+      "name": "aa",
+      "infomation": "aa",
+      "price": "a",
+      "id": 7
+    },
+    {
+      "name": "a",
+      "infomation": "a",
+      "price": "a",
+      "id": 8
+    }
+  ]
+}
